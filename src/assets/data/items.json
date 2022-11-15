@@ -1,0 +1,131 @@
+[
+    {
+        "id" : 1,
+        "name" : "Tree Branch",
+        "category" : "weapon",
+        "src": "items/weapons/BotW_Tree_Branch_Icon.png",
+        "value": 2,
+        "description": "Wooden branches such as this are pretty common, but it's surprisingly well-balanced. It doesn't do much damage but can serve as a weapon in a pinch."
+    },
+    {
+        "id" : 2,
+        "name" : "Soldier's Broadsword",
+        "category" : "weapon",
+        "src": "items/weapons/BotW_Soldier's_Broadsword_Icon.png",
+        "value": 2,
+        "description": "A sword brandished by the soldiers who once protected Hyrule Castle. Its durable blade is well tuned for slaying monsters."
+    },
+    {
+        "id" : 3,
+        "name" : "Royal Claymore",
+        "category" : "weapon",
+        "src": "items/weapons/BotW_Royal_Claymore_Icon.png",
+        "value": 2,
+        "description": "A two-handed sword issued to the Hyrulean royal family's immediate guard detail. Its powerful strikes are said to crush an opponent's body and resolve alike."
+    },
+    {
+        "id" : 4,
+        "name" : "Master Sword",
+        "category" : "weapon",
+        "src": "items/weapons/BotW_Master_Sword_Icon.png",
+        "value": 2,
+        "description": "The Legendary sword that seals the darkness. Its blade gleams with a sacred luster that can oppose the Calamity. Only a hero chosen by the sword itself may wield it."
+    },
+    {
+        "id" : 5,
+        "name" : "Flameblade",
+        "category" : "weapon",
+        "src": "items/weapons/BotW_Flameblade_Icon.png",
+        "value": 2,
+        "description": "xxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+        "id" : 6,
+        "name" : "Feathered Edge",
+        "category" : "weapon",
+        "src": "items/weapons/BotW_Feathered_Edge_Icon.png",
+        "value": 2,
+        "description": "xxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+        "id" : 7,
+        "name" : "Dragonbone Boko Club",
+        "category" : "weapon",
+        "src": "items/weapons/BotW_Dragonbone_Boko_Club_Icon.png",
+        "value": 2,
+        "description": "xxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+        "id" : 8,
+        "name" : "Ancient Short Sword",
+        "category" : "weapon",
+        "src": "items/weapons/BotW_Ancient_Short_Sword_Icon.png",
+        "value": 2,
+        "description": "xxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+        "id" : 9,
+        "name" : "Ancient Shield",
+        "category" : "shields",
+        "src": "items/shields/BotW_Ancient_Shield_Icon.png",
+        "value": 2,
+        "description": ""
+    },
+    {
+        "id" : 10,
+        "name" : "Gerudo Shield",
+        "category" : "shields",
+        "src": "items/shields/BotW_Gerudo_Shield_Icon.png",
+        "value": 2,
+        "description": ""
+    },
+    {
+        "id" : 11,
+        "name" : "Traveler's Shield",
+        "category" : "shields",
+        "src": "items/shields/BotW_Traveler's_Shield_Icon.png",
+        "value": 2,
+        "description": ""
+    },
+    {
+        "id" : 12,
+        "name" : "Wooden Shield",
+        "category" : "shields",
+        "src": "items/shields/BotW_Wooden_Shield_Icon.png",
+        "value": 2,
+        "description": ""
+    },
+    {
+        "id" : 13,
+        "name" : "Cap of The Hero",
+        "category" : "armors",
+        "src": "items/armors/BotW_Cap_of_the_Hero_Icon.png",
+        "value": 2,
+        "description": ""
+    },
+    {
+        "id" : 14,
+        "name" : "Champion's Tunic",
+        "category" : "armors",
+        "src": "items/armors/BotW_Champion's_Tunic_Icon.png",
+        "value": 2,
+        "description": ""
+    },
+    {
+        "id" : 15,
+        "name" : "Climber's Bandanna",
+        "category" : "armors",
+        "src": "items/armors/BotW_Climber's_Bandanna_Icon.png",
+        "value": 2,
+        "description": ""
+    },
+    {
+        "id" : 16,
+        "name" : "Climbing Boots",
+        "category" : "armors",
+        "src": "items/armors/BotW_Climbing_Boots_Icon.png",
+        "value": 2,
+        "description": ""
+    }
+
+]
